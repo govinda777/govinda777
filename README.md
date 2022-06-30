@@ -1,3 +1,6 @@
+<ul class="profile-social-links-list"><li><a itemprop="url" href="https://github.com/govinda777" class="profile-social-link" target="_blank" rel="nofollow noreferrer" aria-label="Github"><span data-balloon="Github" data-balloon-pos="up"><i class="ui-icon-github"></i></span></a></li><li><a itemprop="url" href="https://www.linkedin.com/in/govinda777/" class="profile-social-link" target="_blank" rel="nofollow noreferrer" aria-label="Linkedin"><span data-balloon="Linkedin" data-balloon-pos="up"><i class="ui-icon-linkedin-filled"></i></span></a></li><li><a itemprop="url" href="https://github.com/govinda777/profile" class="profile-social-link" target="_blank" rel="nofollow noreferrer" aria-label="Website"><span data-balloon="Website" data-balloon-pos="up"><i class="ui-icon-globe"></i></span></a></li></ul>
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Luã Govinda&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 <div align="center">
