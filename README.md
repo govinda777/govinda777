@@ -26,37 +26,27 @@
 ### BE | Main skills:
 
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=c-sharp)&nbsp; 
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=purple&labelColor=white)&nbsp;
-![Java](https://img.shields.io/badge/-Java-Spring-0D1117?style=for-the-badge&logo=spring&logoColor=purple&labelColor=white)&nbsp;
-
-![Nodejs](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=purple&
-labelColor=white)&nbsp;
-
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=purple&labelColor=white)&nbsp;
-
-![C++](https://img.shields.io/badge/-C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=purple&labelColor=white)&nbsp;
-
-![C++](https://img.shields.io/badge/-C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=purple&labelColor=white)&nbsp;
-
-
-
-![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=purple&labelColor=white)&nbsp;
-![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=purple&labelColor=white)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java)&nbsp;
+![Java Spring](https://img.shields.io/badge/-Java-Spring-0D1117?style=for-the-badge&logo=spring)&nbsp;
+![Nodejs](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python)&nbsp;
+![C++](https://img.shields.io/badge/-C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B)&nbsp;
+![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-0D1117?style=for-the-badge&logo=amazon-aws)&nbsp;
 
 ### DB | Skills:
 
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=purple&labelColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=purple&labelColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=purple&labelColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb)&nbsp;
+
 
 ### Analytics | Skills:
 
-![Kibana](https://img.shields.io/badge/-Kibana-0D1117?style=for-the-badge&logo=Kibana&logoColor=purple&labelColor=white)&nbsp;
+![Kibana](https://img.shields.io/badge/-Kibana-0D1117?style=for-the-badge&logo=Kibana)&nbsp;
 
 ### Blockchain | Skills:
 
-![Hyperledger](https://img.shields.io/badge/-Hyperledger-0D1117?style=for-the-badge&logo=hyperledger&logoColor=purple&labelColor=white)&nbsp;
-![Ethereum](https://img.shields.io/badge/-Ethereum-0D1117?style=for-the-badge&logo=Ethereum&logoColor=purple&labelColor=white)&nbsp;
+![Hyperledger](https://img.shields.io/badge/-Hyperledger-0D1117?style=for-the-badge&logo=hyperledger)&nbsp;
+![Ethereum](https://img.shields.io/badge/-Ethereum-0D1117?style=for-the-badge&logo=Ethereum)&nbsp;
 
 
 
