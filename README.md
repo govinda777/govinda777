@@ -28,7 +28,7 @@
 
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=c-sharp)&nbsp; 
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java)&nbsp;
-![Java Spring](https://img.shields.io/badge/-Java-Spring-0D1117?style=for-the-badge&logo=java-spring)&nbsp;
+![Java Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![Nodejs](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B)&nbsp;
@@ -38,6 +38,8 @@
 
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb)&nbsp;
+![Oracle](https://img.shields.io/badge/-Oracle-0D1117?style=for-the-badge&logo=oracle)&nbsp;
+![Sql Server](https://img.shields.io/badge/-Sql%20Server-0D1117?style=for-the-badge&logo=sql-server)&nbsp;
 
 
 ### Analytics
@@ -48,8 +50,6 @@
 
 ![Hyperledger](https://img.shields.io/badge/-Hyperledger-0D1117?style=for-the-badge&logo=hyperledger)&nbsp;
 ![Ethereum](https://img.shields.io/badge/-Ethereum-0D1117?style=for-the-badge&logo=Ethereum)&nbsp;
-
-
 
 ### Tools:
 
@@ -64,13 +64,9 @@
 ## GitHub Stats
 
 ![Total](https://img.shields.io/github/downloads/govinda777/govinda777/total.svg)&nbsp;
-
 ![Stars](https://img.shields.io/github/stars/govinda777/govinda777.svg)&nbsp;
-
 ![Watchers](https://img.shields.io/github/watchers/govinda777/govinda777.svg)&nbsp;
-
 ![Followers](https://img.shields.io/github/followers/govinda777.svg?style=social&label=Follow&maxAge=2592000)&nbsp;
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
