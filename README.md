@@ -9,6 +9,19 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{govinda777}/count.svg" /></p> 
 <br></div>
 
+## Contacts
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/govinda777">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.hackerrank.com/govinda777">
+    <img src="https://img.shields.io/badge/Hackerrank?style=for-the-badge&logo=Hackerrank&logoColor=white" alt="Hackerrank Badge"/>
+  </a>
+</div>
+
+
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=govinda777&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Luã Govinda github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=govinda777&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
@@ -69,10 +82,7 @@
 ![Watchers](https://img.shields.io/github/watchers/govinda777/govinda777.svg)&nbsp;
 ![Followers](https://img.shields.io/github/followers/govinda777.svg?style=social&label=Follow&maxAge=2592000)&nbsp;
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-
-
-
 ## Reference
 
 https://www.youtube.com/watch?v=VEVJQipsA7M
+https://www.sitepoint.com/github-profile-readme/
