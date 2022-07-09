@@ -25,7 +25,7 @@
 
 ### BE | Main skills:
 
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=c-sharp&labelColor=white)&nbsp; 
+![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=c-sharp)&nbsp; 
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=purple&labelColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-Spring-0D1117?style=for-the-badge&logo=spring&logoColor=purple&labelColor=white)&nbsp;
 
