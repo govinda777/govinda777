@@ -1,8 +1,5 @@
 [CV](https://www.canva.com/design/DAE_seh-8Rk/lbx5UZfgk46Ed9wsDlclsw/view?utm_content=DAE_seh-8Rk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Govinda&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/eg4q8ka6zQuQ2qgKwe/giphy.gif" width="50%"/>
 </div>
