@@ -15,35 +15,36 @@
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=govinda777&theme=gotham&hide_border=true&area=true)
 
+## Skills
  
-### FE | Main skills:
+### FE
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Javascript](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp;
 
-### BE | Main skills:
+### BE
 
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=c-sharp)&nbsp; 
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java)&nbsp;
-![Java Spring](https://img.shields.io/badge/-Java-Spring-0D1117?style=for-the-badge&logo=spring)&nbsp;
+![Java Spring](https://img.shields.io/badge/-Java-Spring-0D1117?style=for-the-badge&logo=java-spring)&nbsp;
 ![Nodejs](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B)&nbsp;
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-0D1117?style=for-the-badge&logo=amazon-aws)&nbsp;
 
-### DB | Skills:
+### DB
 
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb)&nbsp;
 
 
-### Analytics | Skills:
+### Analytics
 
 ![Kibana](https://img.shields.io/badge/-Kibana-0D1117?style=for-the-badge&logo=Kibana)&nbsp;
 
-### Blockchain | Skills:
+### Blockchain
 
 ![Hyperledger](https://img.shields.io/badge/-Hyperledger-0D1117?style=for-the-badge&logo=hyperledger)&nbsp;
 ![Ethereum](https://img.shields.io/badge/-Ethereum-0D1117?style=for-the-badge&logo=Ethereum)&nbsp;
@@ -53,26 +54,12 @@
 ### Tools:
 
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-
 ![Rider](https://img.shields.io/badge/-Rider-0D1117?style=for-the-badge&logo=rider&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-
 ![Intellij](https://img.shields.io/badge/-IntelliJ%20IDEA-0D1117?style=for-the-badge&logo=intelliJ-idea&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&labelColor=0D1117)&nbsp;
-
-### Other Knowledge:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117) nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
