@@ -61,7 +61,20 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&labelColor=0D1117)&nbsp;
 
+## GitHub Stats
+
+![Total](https://img.shields.io/github/downloads/govinda777/govinda777/total.svg)&nbsp;
+
+![Stars](https://img.shields.io/github/stars/govinda777/govinda777.svg)&nbsp;
+
+![Watchers](https://img.shields.io/github/watchers/govinda777/govinda777.svg)&nbsp;
+
+![Followers](https://img.shields.io/github/followers/govinda777.svg?style=social&label=Follow&maxAge=2592000)&nbsp;
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
+
 
 ## Reference
 
