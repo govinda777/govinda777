@@ -21,6 +21,40 @@
 
 <br />
 </div>
+
+## Stats
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=govinda777&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Luã Govinda github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=govinda777&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=govinda777&theme=gotham&hide_border=true&area=true)
+
+![Total](https://img.shields.io/github/downloads/govinda777/govinda777/total.svg)&nbsp;
+![Stars](https://img.shields.io/github/stars/govinda777/govinda777.svg)&nbsp;
+![Watchers](https://img.shields.io/github/watchers/govinda777/govinda777.svg)&nbsp;
+![Followers](https://img.shields.io/github/followers/govinda777.svg?style=social&label=Follow&maxAge=2592000)&nbsp;
+
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=govinda777&show_icons=true&theme=github_dark&include_all_commits=true"/> <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=govinda777&layout=compact&langs_count=10&theme=github_dark"/>
+<!-- TEMAS: dark, radical, tokyonight, highcontrast, dracula, github_dark, merko, gruvbox, onedark, omni, aura_dark -->
+</div>
+
+<!-- REDES SOCIAIS -->
+<div align="left">
+  <a href ="mailto:josymagalhaes18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/govinda777" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=govinda777)
+</div>
+
+<div>  
+ 
+  ![Snake animation](https://github.com/govinda777/govinda777/blob/output/github-contribution-grid-snake.svg)
+
+</div>
  
 ### FE
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
@@ -76,42 +110,6 @@
     <img src="https://img.shields.io/badge/Hackerrank?style=for-the-badge&logo=Hackerrank&logoColor=white" alt="Hackerrank Badge"/>
   </a>
 </div>
-
-## Stats
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=govinda777&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Luã Govinda github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=govinda777&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=govinda777&theme=gotham&hide_border=true&area=true)
-
-![Total](https://img.shields.io/github/downloads/govinda777/govinda777/total.svg)&nbsp;
-![Stars](https://img.shields.io/github/stars/govinda777/govinda777.svg)&nbsp;
-![Watchers](https://img.shields.io/github/watchers/govinda777/govinda777.svg)&nbsp;
-![Followers](https://img.shields.io/github/followers/govinda777.svg?style=social&label=Follow&maxAge=2592000)&nbsp;
-
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=govinda777&show_icons=true&theme=github_dark&include_all_commits=true"/> <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=govinda777&layout=compact&langs_count=10&theme=github_dark"/>
-<!-- TEMAS: dark, radical, tokyonight, highcontrast, dracula, github_dark, merko, gruvbox, onedark, omni, aura_dark -->
-</div>
-
-<!-- REDES SOCIAIS -->
-<div align="left">
-  <a href ="mailto:josymagalhaes18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/govinda777" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=govinda777)
-</div>
-
-##
-<div>  
- 
-  ![Snake animation](https://github.com/govinda777/govinda777/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
 
 ## Reference
 
