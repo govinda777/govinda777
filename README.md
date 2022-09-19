@@ -9,27 +9,18 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{govinda777}/count.svg" /></p> 
 <br></div>
 
-## Contacts
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/govinda777">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.hackerrank.com/govinda777">
-    <img src="https://img.shields.io/badge/Hackerrank?style=for-the-badge&logo=Hackerrank&logoColor=white" alt="Hackerrank Badge"/>
-  </a>
-</div>
-
-## Stats
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=govinda777&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Luã Govinda github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=govinda777&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=govinda777&theme=gotham&hide_border=true&area=true)
-
 ## Skills
+
+<div>
+
+- 💻 Analista e Desenvolvedoro de Sistemas
+
+- 👩🏻‍🏫 Apaixonada por compartilhar
+
+- 👩🏻‍💻 Desenvolvedor Blockchain
+
+<br />
+</div>
  
 ### FE
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
@@ -75,60 +66,49 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&labelColor=0D1117)&nbsp;
 
-## GitHub Stats
+## Contacts
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/govinda777">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.hackerrank.com/govinda777">
+    <img src="https://img.shields.io/badge/Hackerrank?style=for-the-badge&logo=Hackerrank&logoColor=white" alt="Hackerrank Badge"/>
+  </a>
+</div>
+
+## Stats
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=govinda777&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Luã Govinda github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=govinda777&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=govinda777&theme=gotham&hide_border=true&area=true)
 
 ![Total](https://img.shields.io/github/downloads/govinda777/govinda777/total.svg)&nbsp;
 ![Stars](https://img.shields.io/github/stars/govinda777/govinda777.svg)&nbsp;
 ![Watchers](https://img.shields.io/github/watchers/govinda777/govinda777.svg)&nbsp;
 ![Followers](https://img.shields.io/github/followers/govinda777.svg?style=social&label=Follow&maxAge=2592000)&nbsp;
 
-
-## Hey! Welcome 
-<div>
-
-- 💻 Analista e Desenvolvedora de Sistemas
-
-- 👩🏻‍🏫 Apaixonada por ensinar
-
-- 👩🏻‍💻 Integrante de equipe do PyLadies Sorocaba
-
-- 💙 Participante da 5ª edição do Luiza < Code >
-<br />
-</div>
-
-<!-- GITHUB STATUS -->
-## Github Stats
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JosianeCMagalhaes&show_icons=true&theme=github_dark&include_all_commits=true"/> <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosianeCMagalhaes&layout=compact&langs_count=10&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=govinda777&show_icons=true&theme=github_dark&include_all_commits=true"/> <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=govinda777&layout=compact&langs_count=10&theme=github_dark"/>
 <!-- TEMAS: dark, radical, tokyonight, highcontrast, dracula, github_dark, merko, gruvbox, onedark, omni, aura_dark -->
 </div>
 
 <!-- REDES SOCIAIS -->
 <div align="left">
   <a href ="mailto:josymagalhaes18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/josianemagalhaes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/govinda777" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=JosianeCMagalhaes)
+![](https://visitor-badge.glitch.me/badge?page_id=govinda777)
 </div>
-
-<!-- TECNOLOGIAS -->
-## Languages and Tools
-
-```Python
- class tech_info:
-   languages = ["Python", "SQL", "C", "Java", "Apex", "C#", "JavaScript"]
-   framework = ["FastAPI", "Django"]
-   database = ["SQL Server", "MySQL", "NoSQL", "PostgreSQL", "MongoDB"]
-   tools = ["VS Code", "Postman"]
-   versioning = ["GIT"]
-   others: ["Docker"]
-```
 
 ##
 <div>  
  
-  ![Snake animation](https://github.com/JosianeCMagalhaes/JosianeCMagalhaes/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/govinda777/govinda777/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
