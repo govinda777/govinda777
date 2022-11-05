@@ -21,6 +21,8 @@
 
 * [profile](https://www.canva.com/design/DAE_seh-8Rk/lbx5UZfgk46Ed9wsDlclsw/view?utm_content=DAE_seh-8Rk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 </div>
 
 ## Stats
@@ -36,26 +38,6 @@
 ![Stars](https://img.shields.io/github/stars/govinda777/govinda777.svg)&nbsp;
 ![Watchers](https://img.shields.io/github/watchers/govinda777/govinda777.svg)&nbsp;
 ![Followers](https://img.shields.io/github/followers/govinda777.svg?style=social&label=Follow&maxAge=2592000)&nbsp;
-
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=govinda777&show_icons=true&theme=github_dark&include_all_commits=true"/> <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=govinda777&layout=compact&langs_count=10&theme=github_dark"/>
-<!-- TEMAS: dark, radical, tokyonight, highcontrast, dracula, github_dark, merko, gruvbox, onedark, omni, aura_dark -->
-</div>
-
-<!-- REDES SOCIAIS -->
-<div align="left">
-  <a href ="mailto:josymagalhaes18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/govinda777" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=govinda777)
-</div>
-
-<div>  
- 
-  ![Snake animation](https://github.com/govinda777/govinda777/blob/output/github-contribution-grid-snake.svg)
-
-</div>
  
 ### FE
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
@@ -103,16 +85,15 @@
 
 ## Contacts
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/govinda777">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.hackerrank.com/govinda777">
-    <img src="https://img.shields.io/badge/Hackerrank?style=for-the-badge&logo=Hackerrank&logoColor=white" alt="Hackerrank Badge"/>
-  </a>
+<!-- REDES SOCIAIS -->
+<div align="left">
+  <a href ="mailto:josymagalhaes18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/govinda777" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
 </div>
 
 ## Reference
 
-https://www.youtube.com/watch?v=VEVJQipsA7M
-https://www.sitepoint.com/github-profile-readme/
+* https://www.youtube.com/watch?v=VEVJQipsA7M
+* https://www.sitepoint.com/github-profile-readme/
+* https://github.com/saratiedt/saratiedt
