@@ -11,11 +11,19 @@
 
 <div>
 
-- 💻 Analista e Desenvolvedoro de Sistemas
+- <b>Back End Engineer:</b> C#, Java, Python e Node.js.
 
-- 👩🏻‍🏫 Apaixonada por compartilhar
+- <b>Front End Engineer:</b> React, Angular, HTML, CSS e Javascript.
 
-- 👩🏻‍💻 Desenvolvedor Blockchain
+- <b>Quality Assurance automation Engineer:</b> Cypress, BDD, Testes e2e.
+
+- <b>DevOps Engineer:</b> Gitlab, Docker, Terrafom, AWS EC2, AWS Beanstalk, AWS ECS, AWS Api Gateway, AWS Route 53.
+Database SQL & NoSQL engineer: SQL Server, Oracle, My SQL, Postgresql, Mongo DB e REDIS.
+
+- <b>Scrum Master:</b> Scrum, Kanban, Técnicas de Facilitação, Reporte de indicadores de equipe e produto.
+
+- <b>Release Manager:</b> Gestão e facilitação de releases, afim de garantir a execução do processo e qualidade do produto.
+
 
 <br />
 
