@@ -11,9 +11,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=govinda777&color=blueviolet)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=govinda777&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=govinda777&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=govinda777&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=govinda777&layout=compact)
 
 ## Informações Gerais
 
