@@ -33,7 +33,7 @@
 
 ## Qualificações
 
-🔐 **Blockchain Web 3.0 Developer:** Lang [Solidity, Go] Platforms [Solana, Thirdweb, Tnfura.io, Trufflesuite]
+🔐 **Blockchain Web 3.0 Developer:** Lang [Solidity, Go] Platforms [Solana, Thirdweb, Truffle suite]
 
 📦 **Back End Engineer:** C#, Java, Python e Node.js.
 
