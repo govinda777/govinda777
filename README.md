@@ -17,6 +17,10 @@
 
 ## Informações Gerais
 
+linkedin : https://www.linkedin.com/in/govinda777/
+website : https://govinda777.github.io/
+github : https://github.com/govinda777
+
 🔗 **Blockchain Developer & Web 3.0 Engineer:**
 
 - Desenvolvimento de aplicações Web 3.0 e DAPPs utilizando a rede Ethereum e linguagem Solidity.
