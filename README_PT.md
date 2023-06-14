@@ -21,238 +21,238 @@ linkedin : https://www.linkedin.com/in/govinda777/
 website : https://govinda777.github.io/
 github : https://github.com/govinda777
 
-[English](README.md), [Português](README_PT.md)
+## READ [English](README.md)
 
-## About
+## Sobre
 
-Full Stack Software Engineer and Blockchain Developer with extensive experience in cutting-edge technologies. Passionate about innovation and digital transformation, with a strong ability to develop robust and efficient solutions. Committed to delivering high quality and promoting a culture of continuous learning.
+Engenheiro de Software Full Stack e Desenvolvedor Blockchain com ampla experiência em tecnologias de ponta. Apaixonado por inovação e transformação digital, com forte capacidade de desenvolver soluções robustas e eficientes. Comprometidos em oferecer alta qualidade e promover uma cultura de aprendizado contínuo.
 
-### Blockchain Development:
+### Desenvolvimento de Blockchain:
 
-* Decentralized Applications (DApps) Development
-* Smart Contracts Creation and Implementation
+* Desenvolvimento de Aplicações Descentralizadas (DApps)
+* Criação e Implementação de Contratos Inteligentes
 
-### Software Engineering:
+### Engenharia de software:
 
-* Full Stack Software Engineering
-* Proficiency in C#, Java, JavaScript, React, HTML, CSS, and Transact-SQL
-* Utilization of Design Patterns
+* Engenharia de Software Full Stack
+* Proficiência em C#, Java, JavaScript, React, HTML, CSS e Transact-SQL
+* Utilização de Padrões de Projeto
 
-### Software Architecture:
+### Arquitetura de software:
 
-* Proficiency in application architecture
-* Development of tools and small projects to support development teams
-* Training new team members
-* Development and maintenance of integrations with legacy systems
-* Development of incident response tools
-* Analysis and processing of satellite images
-* Development of systems for Agricultural Derivatives
+* Proficiência em arquitetura de aplicativos
+* Desenvolvimento de ferramentas e pequenos projetos para suporte às equipes de desenvolvimento
+* Treinamento de novos membros da equipe
+* Desenvolvimento e manutenção de integrações com sistemas legados
+* Desenvolvimento de ferramentas de resposta a incidentes
+* Análise e processamento de imagens de satélite
+* Desenvolvimento de sistemas para Derivados Agrícolas
 
-### Testing and Quality Assurance:
+### Teste e garantia de qualidade:
 
-* Test-Driven Development using TDD and BDD methodologies
-* Proficiency in tools such as Chai, Mocha, Xunit, Selenium, and Cucumber
-* Implementation of automated testing
+* Desenvolvimento orientado a testes usando metodologias TDD e BDD
+* Proficiência em ferramentas como Chai, Mocha, Xunit, Selenium e Pepino
+* Implementação de testes automatizados
 
-### Database and Cloud Expertise:
+### Conhecimento em banco de dados e nuvem:
 
-* Advanced knowledge in SQL SERVER Relational Database
-* Experience in deploying applications in the cloud using Docker, Terrafom, AWS EC2, AWS Beanstalk, * * AWS ECS, AWS Api Gateway, AWS Route 53
-* Database migration
+* Conhecimento avançado em Banco de Dados Relacional SQL SERVER
+* Experiência em implantação de aplicações na nuvem utilizando Docker, Terrafom, AWS EC2, AWS Beanstalk, * * AWS ECS, AWS Api Gateway, AWS Route 53
+* Migração de banco de dados
 
-### Devops Engineer:
+### Engenheiro Devops:
 
-* Implementation of Pipelines (CI/CD) to standardize software deliveries using Docker and Gitlab
-* Proficiency in Kubernetes and AWS EKS for container orchestration
+* Implementação de Pipelines (CI/CD) para padronizar entregas de software utilizando Docker e Gitlab
+* Proficiência em Kubernetes e AWS EKS para orquestração de containers
 
-My diverse skill set and experience enable me to deliver robust, efficient, and innovative solutions. I am passionate about leveraging technology to drive innovation and transform industries.
+Meu conjunto diversificado de habilidades e experiência me permite oferecer soluções robustas, eficientes e inovadoras. Sou apaixonado por alavancar a tecnologia para impulsionar a inovação e transformar indústrias.
 
-## Experience
+## Experiência
 
-### Software Engineer Full Stack (Web2 / Web3)
-> ### Govinda Systems DAO · Self Employed
+### Engenheiro de Software Full Stack (Web2 / Web3)
+> ### Govinda Systems DAO · Autônomo
 
-feb 2021 - jun 2023 · 2 years 5 months
+fev 2021 - jun 2023 · 2 anos 5 meses
 
-Blockchain Technology and Decentralized Applications (DApps):
-I specialize in blockchain technology and the development of decentralized applications (DApps). I've gained substantial experience in developing and implementing smart contracts on the Ethereum network, which has facilitated secure and transparent transactions.
+Tecnologia Blockchain e Aplicativos Descentralizados (DApps):
+Sou especialista em tecnologia blockchain e no desenvolvimento de aplicativos descentralizados (DApps). Ganhei experiência substancial no desenvolvimento e implementação de contratos inteligentes na rede Ethereum, o que facilitou transações seguras e transparentes.
 
-Full-Stack Development:
-My skill set spans across full-stack development, utilizing languages such as Solidity, C#, Java, and JavaScript. I'm passionate about leveraging the power of blockchain to drive innovation and transform industries.
+Desenvolvimento Full Stack:
+Meu conjunto de habilidades abrange o desenvolvimento full-stack, utilizando linguagens como Solidity, C#, Java e JavaScript. Sou apaixonado por alavancar o poder do blockchain para impulsionar a inovação e transformar indústrias.
 
-Community Engagement and Continuous Learning:
-I've actively participated in community events and fostered a culture of continuous learning within the DAO. I'm dedicated to leveraging blockchain's potential for social and economic transformation and excited to be part of a dynamic community shaping the future of decentralized finance and governance.
+Envolvimento Comunitário e Aprendizagem Contínua:
+Participei ativamente de eventos da comunidade e fomentei uma cultura de aprendizado contínuo dentro do DAO. Dedico-me a alavancar o potencial da blockchain para transformação social e econômica e estou entusiasmado por fazer parte de uma comunidade dinâmica que molda o futuro das finanças e governança descentralizadas.
 
-Quality and Scalability:
-I'm committed to creating scalable solutions and delivering high-quality software products. My work aims to ensure the robustness and reliability of our blockchain applications, contributing to the overall success of our community's initiatives.
+Qualidade e Escalabilidade:
+Estou comprometido em criar soluções escaláveis e fornecer produtos de software de alta qualidade. Meu trabalho visa garantir a robustez e confiabilidade de nossas aplicações blockchain, contribuindo para o sucesso geral das iniciativas de nossa comunidade.
 
-I hope this revised description better captures your responsibilities and achievements during your time at Govinda Systems DAO.
+Espero que esta descrição revisada capture melhor suas responsabilidades e realizações durante seu tempo na Govinda Systems DAO.
 
-### Software Engineer Full Stack
-> ### MERX · Full time
+### Engenheiro de Software Full Stack
+> ### MERX · Tempo integral
 
-Aug 2022 - May 2023 · 10 months
+ago 2022 - maio 2023 · 10 meses
 
-During my tenure at MERX, a startup focused on innovations and usability for audiences with varying levels of digital knowledge, I played a key role in software development across various industries, with a particular focus on Financial Services and Geotechnology.
+Durante minha passagem pela MERX, uma startup focada em inovações e usabilidade para públicos com níveis variados de conhecimento digital, desempenhei um papel fundamental no desenvolvimento de software em vários setores, com foco particular em Serviços Financeiros e Geotecnologia.
 
-Automated Testing and Infrastructure Migration:
-I spearheaded the implementation of automated testing to expedite software delivery, significantly improving the efficiency and reliability of our development processes. Additionally, I was instrumental in correcting the routes of MS calls and supporting the migration of infrastructure from ECS to EKS.
+Teste automatizado e migração de infraestrutura:
+Liderei a implementação de testes automatizados para agilizar a entrega de software, melhorando significativamente a eficiência e a confiabilidade de nossos processos de desenvolvimento. Além disso, fui fundamental na correção das rotas das chamadas MS e no suporte à migração da infraestrutura de ECS para EKS.
 
-Financial Services:
-I contributed to the development of systems for Agricultural Derivatives, providing valuable tools for stakeholders in the agricultural sector.
+Serviços financeiros:
+Contribuí para o desenvolvimento de sistemas para Derivados Agrícolas, fornecendo ferramentas valiosas para os stakeholders do setor agrícola.
 
-Geotechnology:
-I was involved in the analysis and processing of satellite images, a crucial aspect of our Geotechnology applications. These applications provided guarantees such as crop productivity forecasts, the start and end of harvests, and regularity with government agencies.
+Geotecnologia:
+Eu estava envolvido na análise e processamento de imagens de satélite, um aspecto crucial de nossas aplicações de geotecnologia. Esses aplicativos forneceram garantias como previsão de produtividade das lavouras, início e término da safra e regularidade junto aos órgãos governamentais.
 
-Application Development:
-My work primarily focused on developing applications for Derivatives and Geotechnology. These applications served a niche market of Producers, Cerealists, Transporters, Traders, and Exporters, providing them with valuable insights and tools to enhance their operations.
+Desenvolvimento de aplicações:
+Meu trabalho se concentrou principalmente no desenvolvimento de aplicações para Derivativos e Geotecnologias. Esses aplicativos atenderam a um nicho de mercado de Produtores, Cerealistas, Transportadores, Comerciantes e Exportadores, fornecendo-lhes informações e ferramentas valiosas para aprimorar suas operações.
 
-Technologies Used:
-I utilized a range of technologies including React, Java Spring, Pipeline CI/CD Bitbucket, AWS EC2, AWS EKS, Postgresql & Postgis, Newrelic, and Logz.io. These tools were integral to the successful development and deployment of our software solutions.
+Tecnologias usadas:
+Utilizei uma variedade de tecnologias, incluindo React, Java Spring, Pipeline CI/CD Bitbucket, AWS EC2, AWS EKS, Postgresql & Postgis, Newrelic e Logz.io. Essas ferramentas foram essenciais para o desenvolvimento e implantação bem-sucedidos em nossas soluções de software.
 
-For more information about MERX, please visit our website: https://www.merxagri.com/
+Para obter mais informações sobre a MERX, visite nosso site: https://www.merxagri.com/
 
-### Release Train Engineer by Approvata
-> ### C&A · Full time
+### Release Train Engineer by Approtata
+> ### C&A · Tempo integral
 
-Nov 2021 - Jun 2022 · 8 months
+de novembro de 2021 a junho de 2022 · 8 meses
 
-Development of Software Release processes. Team training, Agile Masters, Tech Leads in Software Release processes.
+Desenvolvimento de processos de Release de Software. Treinamento de equipes, Agile Masters, Tech Leads em processos de Release de Software.
 
-Transparently communicate and escalate impediments. Analyze the delivery flow to map bottlenecks and implement process improvements. 
+Comunique-se com transparência e encaminhe impedimentos. Analisar o fluxo de entrega para mapear gargalos e implementar melhorias nos processos.
 
-Encourage collaboration between teams. Alignment with POs, PMs and other contributors to help ensure alignment of strategy and execution. 
+Incentive a colaboração entre as equipes. Alinhamento com POs, PMs e outros colaboradores para ajudar a garantir o alinhamento da estratégia e execução.
 
-Facilitate meetings corresponding to the delivery process. Creating automated reports to reflect the current status of the release.
+Facilitar reuniões correspondentes ao processo de entrega. Criação de relatórios automatizados para refletir o status atual do lançamento.
 
-### Software Engineer by Approvata
-> ### C&A · Full time
+### Engenheiro de Software por Approtata
+> ### C&A · Tempo integral
 
-jun de 2019 - nov de 2021 · 2 years 6 months
+jun de 2019 - nov de 2021 · 2 anos 6 meses
 
-C&A, one of the world's largest fashion retail companies. I was instrumental in the development of C&A's e-commerce, contributing to the company's digital transformation.
+C&A, uma das maiores empresas varejistas de moda do mundo. Fui fundamental no desenvolvimento do e-commerce da C&A, contribuindo para a transformação digital da empresa.
 
-End-to-End Development:
-I carried out end-to-end software solution development, from understanding the needs of the business area to the deployment of the solution. This involved close collaboration with stakeholders to ensure that solutions met business objectives.
+Desenvolvimento de ponta a ponta:
+Realizei o desenvolvimento de soluções de software end-to-end, desde o entendimento das necessidades da área de negócios até a implantação da solução. Isso envolveu estreita colaboração com as partes interessadas para garantir que as soluções atendessem aos objetivos de negócios.
 
-Application Architecture:
-I demonstrated proficiency in application architecture, designing solutions that balanced cost and benefit. My efficiency-focused approach helped to maximize the return on technology investment.
+Arquitetura do aplicativo:
+Demonstrei proficiência em arquitetura de aplicativos, projetando soluções que equilibram custo e benefício. Minha abordagem focada na eficiência ajudou a maximizar o retorno sobre o investimento em tecnologia.
 
-Tool and Project Construction:
-I developed tools and small projects to support the development team, accelerating their productivity. This included the implementation of pipelines (CI/CD) to standardize software deliveries.
+Construção de ferramentas e projetos:
+Desenvolvi ferramentas e pequenos projetos para dar suporte ao time de desenvolvimento, acelerando sua produtividade. Isso incluiu a implementação de pipelines (CI/CD) para padronizar as entregas de software.
 
-Core Technologies:
-I utilized a variety of technologies, including C#, MongoDB, Gitlab, Docker, Terrafom, AWS EC2, AWS Beanstalk, AWS ECS, AWS Api Gateway, AWS Route 53. These tools were fundamental for the effective implementation of software solutions.
+Principais tecnologias:
+Utilizei uma variedade de tecnologias, incluindo C#, MongoDB, Gitlab, Docker, Terrafom, AWS EC2, AWS Beanstalk, AWS ECS, AWS Api Gateway, AWS Route 53. Essas ferramentas foram fundamentais para a implementação eficaz de soluções de software.
 
-### Scrum Master in Redecard
-> ### Iteris Consultoria e Software · Full time
+### Scrum Master na Redecard
+> ### Iteris Consultoria e Software · Tempo integral
 
-dez de 2018 - jun de 2019 · 7 months
+dez de 2018 - jun de 2019 · 7 meses
 
-Agile practices evangelist for community squads to sell (authorizer, capture digital and physical)
+Evangelista de práticas ágeis para esquadrões da comunidade para vender (autorizador, captura digital e físico)
 
-Guidance for Scrum Masters in the application of best practices for agile methodologies.
-Support as a Meeting Facilitator in Scrum teams. Learning culture motivator, stimulating presentations, Coding Dojo and Workshops.
+Orientação para Scrum Masters na aplicação das melhores práticas de metodologias ágeis.
+Suporte como Facilitador de Reuniões em times Scrum. Motivador da cultura de aprendizagem, apresentações estimulantes, Coding Dojo e Workshops.
 
-Provider of environment and activities that help in the performance gain of teams through intrinsic motivation. Adapting and maintaining processes aimed at transparency so that it is possible to inspect and carry out evolutionary adaptation within the agile principles and values.
+Provedor de ambiente e atividades que auxiliam no ganho de desempenho das equipes através da motivação intrínseca. Adaptar e manter processos visando a transparência para que seja possível fiscalizar e realizar a adaptação evolutiva dentro dos princípios e valores ágeis.
 
-Acting as Scrum Master in the development team, guidance on best practices focusing on results.
-Removal of impediments from the team, whether technical, operational or organizational, ensuring that the team did not suffer from external interference. Evangelist of agile practices for community squads to sell (authorization, digital and physical capture)
+Atuando como Scrum Master na equipe de desenvolvimento, orientando sobre as melhores práticas com foco em resultados.
+Remoção de impedimentos da equipe, sejam técnicos, operacionais ou organizacionais, garantindo que a equipe não sofra interferências externas. Evangelista de práticas ágeis para os squads da comunidade venderem (autorização, captura digital e física)
 
-### Software Engineer in Redecard
-> ### Iteris Consultoria e Software · Full time
+### Engenheiro de Software na Redecard
+> ### Iteris Consultoria e Software · Tempo integral
 
-set de 2016 - dez de 2018 · 2 years 4 months
+set de 2016 - dez de 2018 · 2 anos 4 meses
 
-During my tenure at Redecard, one of the leading payment processing companies in Brazil, I played a pivotal role in transforming customer relationships through strategic implementations to improve application scalability and performance in the Acquiring segment.
+Durante minha passagem pela Redecard, uma das principais empresas de processamento de pagamentos do Brasil, desempenhei um papel fundamental na transformação do relacionamento com os clientes por meio de implementações estratégicas para melhorar a escalabilidade e o desempenho de aplicativos no segmento de Acquiring.
 
-Performance Improvement:
-I was instrumental in investigating and resolving root causes of problems, significantly enhancing the performance of our applications. My efforts led to more efficient and reliable systems, improving customer satisfaction and business outcomes.
+Melhoria de desempenho:
+Fui fundamental na investigação e resolução das causas raiz dos problemas, melhorando significativamente o desempenho de nossos aplicativos. Meus esforços resultaram em sistemas mais eficientes e confiáveis, melhorando a satisfação do cliente e os resultados comerciais.
 
-Automated Testing:
-I implemented automated testing to ensure the robustness and reliability of our software, reducing errors and enhancing the quality of our applications.
+Teste automatizado:
+Implementei testes automatizados para garantir a robustez e confiabilidade de nosso software, reduzindo erros e melhorando a qualidade de nossas aplicações.
 
-Incident Response Tools:
-I developed tools to optimize incident response times, enabling quicker resolution of issues and minimizing downtime. This contributed to improved service levels and customer satisfaction.
+Ferramentas de resposta a incidentes:
+Desenvolvi ferramentas para otimizar os tempos de resposta a incidentes, permitindo uma resolução mais rápida de problemas e minimizando o tempo de inatividade. Isso contribuiu para melhorar os níveis de serviço e a satisfação dos clientes.
 
-Training New Team Members:
-I provided training for new team members, equipping them with the necessary knowledge and skills to contribute effectively to our team. This helped to ensure a smooth onboarding process and maintain high team performance.
+Treinamento de novos membros da equipe:
+Forneci treinamento para novos membros da equipe, equipando-os com os conhecimentos e habilidades necessários para contribuir efetivamente com nossa equipe. Isso ajudou a garantir um processo de integração tranquilo e a manter o alto desempenho da equipe.
 
-Application Observability:
-I improved application observability by developing monitoring and alarm systems using App Dynamics and Pingdom. This allowed for proactive issue detection and resolution, enhancing system reliability.
+Observabilidade do aplicativo:
+Melhorei a observabilidade do aplicativo desenvolvendo sistemas de monitoramento e alarme usando App Dynamics e Pingdom. Isso permitiu a detecção e resolução proativa de problemas, aumentando a confiabilidade do sistema.
 
-Integration and Consultation:
-I gained experience with integrations via ISO8583 and supported updates to the specifications of flags (e.g., VISA, MASTER). I also provided system analysis and implemented solutions for various consulting clients.
+Integração e Consulta:
+Ganhei experiência com integrações via ISO8583 e suportei atualizações nas especificações das bandeiras (por exemplo, VISA, MASTER). Também forneci análise de sistemas e implementei soluções para vários clientes de consultoria.
 
-Technologies Used:
-I utilized a range of technologies including C#, Java Spring, C++, Shell Script, Angular, HTML, CSS, JavaScript, Oracle, SQL Server, Terraform, AWS EC2, AWS S3. These tools were integral to the successful development and deployment of our software solutions.
+Tecnologias usadas:
+Utilizei uma variedade de tecnologias, incluindo C#, Java Spring, C++, Shell Script, Angular, HTML, CSS, JavaScript, Oracle, SQL Server, Terraform, AWS EC2, AWS S3. Essas ferramentas foram essenciais para o desenvolvimento e implantação bem-sucedidos de nossas soluções de software.
 
-### Software Engineer
-> ### Iteris Consultoria e Software · Full time
+### Engenheiro de software
+> ### Iteris Consultoria e Software · Tempo integral
 
-set de 2015 - set de 2016 · 1 year 1 month
+conjunto de 2015 - conjunto de 2016 · 1 ano 1 mês
 
-I was responsible for executing small projects aimed at improving client relationships and addressing client issues in a quick, agile, and efficient manner. I worked with various clients across different segments, implementing tailored solutions to meet their unique needs.
+Fui responsável por executar pequenos projetos que visavam melhorar o relacionamento com os clientes e resolver os problemas dos clientes de maneira rápida, ágil e eficiente. Trabalhei com vários clientes em diferentes segmentos, implementando soluções sob medida para atender às suas necessidades específicas.
 
 Votorantim Cimentos:
-I implemented a portal for the issuance of a Certificate of Commitment to the Environment and control of partners authorized by IBAMA. This project enhanced Votorantim Cimentos' environmental compliance and partner management. Technologies used included Sharepoint, C#, HTML, CSS, JavaScript, and Open XML SDK for pinning the digital certificate.
+Implementei um portal para emissão de Certificado de Compromisso com o Meio Ambiente e controle de parceiros autorizados pelo IBAMA. Esse projeto aprimorou a conformidade ambiental e a gestão de parceiros da Votorantim Cimentos. As tecnologias usadas incluíram Sharepoint, C#, HTML, CSS, JavaScript e Open XML SDK para fixar o certificado digital.
 
-Ingenico:
-I developed a Workflow system for the maintenance of TETRA Portable terminals in collaboration with Cielo and Redecard. This system streamlined the maintenance process, improving efficiency and service quality. The main technologies used were C# and Oracle.
+Ingênico:
+Desenvolvi um sistema de Workflow para manutenção de terminais TETRA Portable em colaboração com Cielo e Redecard. Este sistema agilizou o processo de manutenção, melhorando a eficiência e a qualidade do serviço. As principais tecnologias utilizadas foram C# e Oracle.
 
 Cosan:
-I constructed a portal and project approval workflow (Capex and Opex) for Cosan. This solution improved project management and decision-making processes at the company. Technologies used included Sharepoint, Nintex for SharePoint, C#, HTML, CSS, and JavaScript.
+Construí portal e workflow de aprovação de projetos (Capex e Opex) para a Cosan. Essa solução melhorou a gestão de projetos e os processos de tomada de decisão na empresa. As tecnologias utilizadas incluíram Sharepoint, Nintex para SharePoint, C#, HTML, CSS e JavaScript.
 
-### Software Engineer
-> ### TOTVS · Full time
+### Engenheiro de software
+> ### TOTVS · Tempo integral
 
-nov de 2013 - set de 2015 · 1 year 11 months
+nov de 2013 - set de 2015 · 1 ano 11 meses
 
-During my tenure at TOTVS, one of Brazil's largest software companies, I played a crucial role in the development and maintenance of robust financial systems. My experience spanned various .Net platforms, including Web Forms, MVC, Windows Forms, and WPF.
+Durante minha passagem pela TOTVS, uma das maiores empresas de software do Brasil, desempenhei um papel crucial no desenvolvimento e manutenção de sistemas financeiros robustos. Minha experiência abrangeu várias plataformas .Net, incluindo Web Forms, MVC, Windows Forms e WPF.
 
-System Development and Maintenance:
-I actively worked on the development of web services for integration with legacy systems, ensuring a smooth and efficient transition. Additionally, I participated in the creation of extract reports, providing valuable insights to the team and stakeholders.
+Desenvolvimento e Manutenção do Sistema:
+Atuei ativamente no desenvolvimento de web services para integração com sistemas legados, garantindo uma transição suave e eficiente. Além disso, participei da criação de relatórios de extração, fornecendo insights valiosos para a equipe e as partes interessadas.
 
-SQL and Oracle Database:
-I demonstrated proficiency in customizing PROCs to optimize database performance. I conducted data load analyses to identify and resolve performance bottlenecks. I was also responsible for creating jobs for data processing, integration, and purge, ensuring data efficiency and integrity.
+Banco de Dados SQL e Oracle:
+Demonstrei proficiência na personalização de PROCs para otimizar o desempenho do banco de dados. Realizei análises de carga de dados para identificar e resolver gargalos de desempenho. Também fui responsável por criar jobs para processamento, integração e purga de dados, garantindo eficiência e integridade dos dados.
 
-Database Migration:
-I led a database migration project from SQL to Oracle, ensuring a seamless transition with no data loss. This project significantly improved the efficiency and performance of our database system.
+Migração de banco de dados:
+Liderei um projeto de migração de banco de dados de SQL para Oracle, garantindo uma transição perfeita sem perda de dados. Este projeto melhorou significativamente a eficiência e o desempenho do nosso sistema de banco de dados.
 
-### Software Engineer
-> ### UTC Engenharia S.A · Full time
+### Engenheiro de software
+> ### UTC Engenharia S.A · Tempo integral
 
-abr de 2010 - nov de 2013 · 3 years 8 months
+abr de 2010 - nov de 2013 · 3 anos 8 meses
 
-During my tenure at UTC Engenharia, one of Brazil's leading engineering companies, I served as a developer analyst specializing in .Net and Visual Basic 6.0. My role was multifaceted, encompassing system migration, tool development, and integration maintenance.
+Durante minha passagem pela UTC Engenharia, uma das principais empresas de engenharia do Brasil, atuei como analista desenvolvedor especializado em .Net e Visual Basic 6.0. Minha função era multifacetada, abrangendo migração de sistema, desenvolvimento de ferramentas e manutenção de integração.
 
-System Migration:
-I played a key role in migrating systems developed in Visual Basic 6.0 and ASP to the .NET platform. This strategic transition enhanced system performance and facilitated more efficient development processes.
+Migração do sistema:
+Desempenhei um papel fundamental na migração de sistemas desenvolvidos em Visual Basic 6.0 e ASP para a plataforma .NET. Essa transição estratégica melhorou o desempenho do sistema e facilitou processos de desenvolvimento mais eficientes.
 
-Tool Development:
-I developed new tools to support activities in various sectors, including the construction and measurement of Oil Platforms, Refineries, Oil and Gas Extraction, Steel, Metallurgy, Mining, and Paper/Pulp. These tools significantly improved operational efficiency and accuracy.
+Desenvolvimento de ferramentas:
+Desenvolvi novas ferramentas para apoiar atividades em diversos setores, incluindo construção e medição de Plataformas de Petróleo, Refinarias, Extração de Petróleo e Gás, Siderurgia, Metalurgia, Mineração e Papel/Celulose. Essas ferramentas melhoraram significativamente a eficiência operacional e a precisão.
 
-Workflow System Creation:
-I created a workflow system of activities, streamlining processes and enhancing productivity across the organization. This system provided a structured approach to managing and executing tasks.
+Criação do sistema de fluxo de trabalho:
+Criei um sistema de fluxo de trabalho de atividades, agilizando processos e aumentando a produtividade em toda a organização. Este sistema forneceu uma abordagem estruturada para gerenciar e executar tarefas.
 
-Integration Development and Maintenance:
-I was responsible for developing and maintaining integrations with Datasul and Dynamics CRM. These integrations ensured seamless data flow and improved the efficiency of our business operations.
+Desenvolvimento e Manutenção da Integração:
+Fui responsável por desenvolver e manter integrações com Datasul e Dynamics CRM. Essas integrações garantiram um fluxo de dados contínuo e melhoraram a eficiência de nossas operações comerciais.
 
-### Software Engineer VB6, C#, ASP
-> ### Totalsys Tecnologia Ltda. · Full time
+### Engenheiro de Software VB6, C#, ASP
+> ### Totalsys Tecnologia Ltda. · Tempo total
 
-ago de 2009 - mar de 2010 · 8 months
+ago de 2009 - mar de 2010 · 8 meses
 
-Development of new modules and tools for billing systems. My role was multifaceted, encompassing software development, error analysis and correction, database management, and process documentation.
+Desenvolvimento de novos módulos e ferramentas para sistemas de cobrança. Minha função era multifacetada, abrangendo desenvolvimento de software, análise e correção de erros, gerenciamento de banco de dados e documentação de processos.
 
-Software Development:
-I utilized VB6, C#, and ASP .NET to develop new modules and tools for our billing systems. These developments improved the functionality and efficiency of our systems, enhancing the company's service offerings.
+Desenvolvimento de software:
+Utilizei VB6, C# e ASP .NET para desenvolver novos módulos e ferramentas para nossos sistemas de faturamento. Esses desenvolvimentos melhoraram a funcionalidade e a eficiência de nossos sistemas, aprimorando as ofertas de serviços da empresa.
 
-Error Analysis and Correction:
-I was responsible for analyzing and correcting errors in our software. This involved identifying issues, determining their causes, and implementing effective solutions to prevent recurrence.
+Análise e correção de erros:
+Eu era responsável por analisar e corrigir erros em nosso software. Isso envolveu a identificação de problemas, determinação de suas causas e implementação de soluções eficazes para evitar a recorrência.
 
-Database Management:
-I worked with SQL Server databases, creating custom procedures and queries to manage and manipulate data. This ensured the accuracy and integrity of our data, contributing to the overall reliability of our systems.
+Gerenciamento de banco de dados:
+Trabalhei com bancos de dados SQL Server, criando procedimentos personalizados e consultas para gerenciar e manipular dados. Isso garantiu a precisão e a integridade de nossos dados, contribuindo para a confiabilidade geral de nossos sistemas.
 
-Process Documentation:
-I documented new processes, providing clear and comprehensive guides for team members. This facilitated smoother operations and ensured that all team members had a thorough understanding of our processes.
+Documentação do Processo:
+Documentei novos processos,fornecendo guias claros e abrangentes para os membros da equipe. Isso facilitou operações mais tranquilas e garantiu que todos os membros da equipe tivessem um entendimento completo de nossos processos.

@@ -21,7 +21,7 @@ linkedin : https://www.linkedin.com/in/govinda777/
 website : https://govinda777.github.io/
 github : https://github.com/govinda777
 
-[English](README.md), [Português](README_PT.md)
+## READ [Português](README_PT.md)
 
 ## About
 
