@@ -15,6 +15,18 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=govinda777&layout=compact)
 
+## Dashboard
+
+<div align="center">
+
+### 🐍 Snake eating my contributions
+<img src="https://raw.githubusercontent.com/govinda777/govinda777/output/github-contribution-grid-snake.svg" alt="snake animation" style="max-width: 100%;" />
+
+### 🧱 3D Contribution Graph
+<img src="https://raw.githubusercontent.com/govinda777/govinda777/output/profile-3d-contrib/profile-green-animate.svg" alt="3d contribution graph" style="max-width: 100%;" />
+
+</div>
+
 ## Info
 
 linkedin : https://www.linkedin.com/in/govinda777/
