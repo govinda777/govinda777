@@ -12,14 +12,14 @@ O Markdown evoluiu de uma simples linguagem de marcação para uma ferramenta po
 ### 1.1 Sintaxe Estendida para Gráficos  
 O Markdown suporta nativamente diagramas através de blocos de código com realce de sintaxe. Para gráficos vetoriais:
 
-````markdown
-```
+
+```mermaid
 graph TD
     A[Início] --> B{Decisão}
     B -->|Sim| C[Processo 1]
     B -->|Não| D[Processo 2]
 ```
-```
+
 Esta sintaxe gera diagramas de fluxo interativos quando renderizados em plataformas como GitHub Pages ou GitBook[2][6][14].
 
 ### 1.2 Tabelas Dinâmicas com Formatação Condicional  
@@ -114,14 +114,14 @@ Aplica-se a caminhos SVG complexos para simular o ato de desenhar[13].
 ### 4.2 Canvas API em Blocos de Código  
 Desenho livre via JavaScript Canvas:
 
-````markdown
-```
+
+```markdown
 const ctx = canvas.getContext('2d');
 ctx.beginPath();
 ctx.arc(150, 150, 100, 0, Math.PI * 2);
 ctx.stroke();
 ```
-```
+
 Renderizado através de pré-processadores como Mermaid Extended[6][14].
 
 ---
@@ -136,8 +136,8 @@ Diagramação avançada com suporte a:
 - Mapas mentais interativos
 
 Exemplo de gráfico de radar:
-````markdown
-```
+
+```markdown
 radarChart
   title Habilidades Técnicas
   axis Frontend, Backend, DevOps, UI/UX
