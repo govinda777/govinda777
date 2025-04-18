@@ -1,118 +1,147 @@
-Segue abaixo a versão atualizada da documentação com exemplos adicionais que destacam outros usos do **profile-3d-contrib**:
+# Govinda Project Dashboard
 
----
+Welcome to the comprehensive dashboard for Govinda's projects. This dashboard provides real-time insights and visualizations of repository metrics and activities.
 
-# Dashboard do Projeto
+## Overview
 
-Este dashboard exibe informações atualizadas dos repositórios do projeto. Agora, os dados do repositório principal (govinda777) são apresentados com uma visão atualizada utilizando recursos do diretório "profile-3d-contrib".
+![Profile Visualization](profile-3d-contrib/profile-green-animate.svg)
 
-![Atualização de govinda777](profile-3d-contrib/profile-green-animate.svg)
+## Repository Metrics
 
 ```mermaid
 flowchart TD
     A[Dashboard dos Repositórios]
     B[govinda777]
-    D[Commits: 220]
+    D[Commits: 220+]
     E[Issues: 18]
     F[Stars: 55]
+    G[Technologies: 15+]
     A --> B
     B --> D
     B --> E
     B --> F
+    B --> G
 ```
 
-> Nota: Os dados apresentados são apenas exemplos. Para informações em tempo real, integre com uma API online.
-
-## Exemplos Adicionais
-
-### Exemplo 1: Repositório profile-3d-contrib
-
-Exibindo informações do repositório **profile-3d-contrib**:
-
-![Atualização de profile-3d-contrib](profile-3d-contrib/profile-green.svg)
+## Technology Stack
 
 ```mermaid
-flowchart TD
-    A[Dashboard dos Repositórios]
-    P[profile-3d-contrib]
-    C[Commits: 130]
-    I[Issues: 8]
-    U[Contributors: 5]
-    A --> P
-    P --> C
-    P --> I
-    P --> U
+mindmap
+  root((Tech Stack))
+    Blockchain
+      Ethereum
+      Solidity
+      Smart Contracts
+    Frontend
+      React
+      JavaScript
+      HTML5
+      CSS3
+    Backend
+      C#
+      Java
+      Node.js
+    DevOps
+      AWS
+      Docker
+      Kubernetes
+      Terraform
+    Databases
+      MongoDB
+      SQL Server
+      Oracle
 ```
 
-### Exemplo 2: Relacionamento entre Repositórios
+## Activity Visualization
 
-Este diagrama ilustra a interação entre o repositório principal e o repositório **profile-3d-contrib**:
+![Activity Visualization](profile-3d-contrib/profile-night-rainbow.svg)
+
+## Project Timeline
+
+```mermaid
+gantt
+    title Project Timeline
+    dateFormat  YYYY-MM-DD
+    
+    section Blockchain Development
+    DApp Development     :2021-01-01, 2023-12-31
+    Smart Contract Implementation :2021-03-01, 2022-11-30
+    
+    section Software Architecture
+    System Design       :2019-01-01, 2023-12-31
+    Migration to Microservices :2020-06-01, 2022-03-31
+    
+    section Full Stack Engineering
+    Frontend Development  :2018-01-01, 2023-12-31
+    Backend APIs          :2017-01-01, 2023-12-31
+```
+
+## Contribution Patterns
+
+![South Season Contributions](profile-3d-contrib/profile-south-season-animate.svg)
+
+## Repository Relationships
 
 ```mermaid
 flowchart LR
     G[govinda777]
     P[profile-3d-contrib]
-    G -- "Fornece dados para" --> P
-    P -- "Atualizações e visualizações de dados" --> G
+    D[DApps]
+    S[Smart Contracts]
+    W[Website]
+    
+    G --> P
+    G --> D
+    G --> S
+    G --> W
+    
+    P -- "Visualization" --> G
+    D -- "Blockchain Apps" --> G
+    S -- "Ethereum Contracts" --> G
+    W -- "Portfolio" --> G
 ```
 
-Detalhes:
-- **govinda777:**
-  - Commits: 220
-  - Issues: 18
-  - Stars: 55
-- **profile-3d-contrib:**
-  - Commits: 130
-  - Issues: 8
-  - Contributors: 5
-
-### Exemplo 3: Visualização 3D dos Contribuidores
-
-Neste exemplo, o **profile-3d-contrib** é utilizado para gerar uma visualização 3D interativa dos contribuidores, evidenciando tanto o número de colaboradores quanto a atividade recente no repositório.
-
-![Visualização 3D dos Contribuidores](profile-3d-contrib/contributors-3d.svg)
+## Professional Experience
 
 ```mermaid
-flowchart TB
-    A[Dashboard de Contribuidores]
-    P[profile-3d-contrib]
-    C[Contribuidores: 5]
-    D[Commits: 130]
-    V[Visualização 3D Interativa]
-    A --> P
-    P --> C
-    P --> D
-    P --> V
+timeline
+    title Career Progression
+    2021-2023 : Blockchain Developer
+                Govinda Systems DAO
+    2022-2023 : Software Engineer
+                MERX
+    2021-2022 : Release Train Engineer
+                C&A
+    2019-2021 : Software Engineer
+                C&A
+    2018-2019 : Scrum Master
+                Redecard
+    2016-2018 : Software Engineer
+                Redecard
 ```
 
-### Exemplo 4: Comparativo Dinâmico entre Repositórios
+## Night View Visualization
 
-Este diagrama compara as métricas principais dos repositórios **govinda777** e **profile-3d-contrib**, facilitando a análise rápida de desempenho e engajamento:
+![Night View](profile-3d-contrib/profile-night-view.svg)
 
-```mermaid
-flowchart LR
-    A[Comparativo de Repositórios]
-    G[govinda777]
-    P[profile-3d-contrib]
-    G -- "Commits: 220\nIssues: 18\nStars: 55" --> A
-    P -- "Commits: 130\nIssues: 8\nContributors: 5" --> A
-```
-
-### Exemplo 5: Histórico de Atualizações
-
-Neste exemplo, o **profile-3d-contrib** mostra um painel de atualizações dinâmicas, informando a data da última atualização e eventos recentes do repositório:
+## Latest Updates
 
 ```mermaid
 flowchart TD
     A[Dashboard de Atualizações]
-    P[profile-3d-contrib]
-    T[Última Atualização: 2025-03-25]
+    T[Última Atualização: 2023-12-25]
     E[Eventos Recentes]
-    A --> P
-    P --> T
-    P --> E
+    C1[Repository Documentation]
+    C2[Profile Visualizations]
+    C3[Technology Stack Updates]
+    
+    A --> T
+    A --> E
+    E --> C1
+    E --> C2
+    E --> C3
 ```
 
 ---
 
-Esses exemplos ampliam a documentação, demonstrando como o **profile-3d-contrib** pode ser integrado para exibir diversas visualizações e comparativos de dados dos repositórios. Basta ajustar os parâmetros e dados conforme a necessidade do projeto para uma integração completa e dinâmica.
+> This dashboard is automatically updated with the latest project metrics and visualizations. The data is generated using [profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) and integrated with GitHub metrics.
