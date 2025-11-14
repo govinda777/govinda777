@@ -78,6 +78,13 @@ I'm a Full Stack Software Engineer and Blockchain Developer with a passion for c
 ## 🚀 Professional Experience
 
 <details>
+<summary><b>🔗 Eng. Software @ Mercado Livre</b></summary>
+<br>
+• Desenvolvimento de provedores Cloud
+• Desenvolvimento de fluxo de sync IAC code
+</details>
+
+<details>
 <summary><b>🔗 Blockchain Developer @ Govinda Systems DAO (2021-2023)</b></summary>
 <br>
 • Developed decentralized applications (DApps) and smart contracts on Ethereum<br>
