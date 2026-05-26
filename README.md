@@ -59,13 +59,6 @@ I'm a Full Stack Software Engineer and Blockchain Developer with a passion for c
   
 ![Snake animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-<!-- Replace with a static image that doesn't need GitHub Actions -->
-### 🧱 3D Contribution Graph
-  
-![GitHub Contribution stats](https://github-readme-stats.vercel.app/api?username=govinda777&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-</div>
-
 ## 🚀 Professional Experience
 
 <details>
