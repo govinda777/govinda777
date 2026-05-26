@@ -25,10 +25,6 @@ I'm a Full Stack Software Engineer and Blockchain Developer with a passion for c
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=govinda777&theme=tokyonight&hide_border=true" />
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=govinda777&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=govinda777&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
